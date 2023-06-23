@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/portofolio-web-mahzuz/static/css/main.d8c49a33.css",
+    "main.js": "/portofolio-web-mahzuz/static/js/main.1d1d81b4.js",
+    "static/media/mjd_crop.jpg": "/portofolio-web-mahzuz/static/media/mjd_crop.85c0679bdc56bef984c8.jpg",
+    "static/media/mjd.jpg": "/portofolio-web-mahzuz/static/media/mjd.92a0065c70d33d149c0c.jpg",
+    "static/media/John-Cv.pdf": "/portofolio-web-mahzuz/static/media/John-Cv.e83747cf513e0b21a7f1.pdf",
+    "index.html": "/portofolio-web-mahzuz/index.html",
+    "main.d8c49a33.css.map": "/portofolio-web-mahzuz/static/css/main.d8c49a33.css.map",
+    "main.1d1d81b4.js.map": "/portofolio-web-mahzuz/static/js/main.1d1d81b4.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.d8c49a33.css",
+    "static/js/main.1d1d81b4.js"
+  ]
+}
