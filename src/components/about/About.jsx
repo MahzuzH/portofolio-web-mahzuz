@@ -1,12 +1,12 @@
-import React from 'react';
+import React from "react";
 import "./about.css";
 import AboutImg from "../../assets/mjd_crop.jpg";
 import CV from "../../assets/John-Cv.pdf";
-import Info from './Info';
+import Info from "./Info";
 
 const About = () => {
     return (
-        <section className="about section" id='about'>
+        <section className="about section" id="about">
             <h2 className="section__title">About Me</h2>
             <span className="section__subtitle">My Introduction</span>
 
@@ -17,7 +17,10 @@ const About = () => {
                     <Info />
 
                     <p className="about__description">
-                        As a mobile and data enthusiast, I am passionate about exploring the realms of mobile development and data analysis. With a strong focus on machine learning model. Looking for the opportunity to collaborate a projects!
+                        As a mobile and data enthusiast, I am passionate about
+                        exploring the realms of mobile development and data
+                        analysis. With a strong focus on machine learning model.
+                        Looking for the opportunity to collaborate a projects!
                     </p>
 
                     <a download="" href={CV} className="button button--flex">
@@ -50,10 +53,8 @@ const About = () => {
                     </a>
                 </div>
             </div>
-
         </section>
+    );
+};
 
-    )
-}
-
-export default About
+export default About;

@@ -1,4 +1,4 @@
-import React from 'react'
+import React from "react";
 
 const Backend = () => {
     return (
@@ -8,7 +8,7 @@ const Backend = () => {
             <div className="skills__box">
                 <div className="skills__group">
                     <div className="skills__data">
-                        <i class='bx bxl-python' ></i>
+                        <i class="bx bxl-python"></i>
 
                         <div>
                             <h3 className="skills__name">Python</h3>
@@ -17,7 +17,7 @@ const Backend = () => {
                     </div>
 
                     <div className="skills__data">
-                        <i class='bx bxs-data' ></i>
+                        <i class="bx bxs-data"></i>
 
                         <div>
                             <h3 className="skills__name">MySQL</h3>
@@ -26,7 +26,7 @@ const Backend = () => {
                     </div>
 
                     <div className="skills__data">
-                        <i class='bx bxl-firebase' ></i>
+                        <i class="bx bxl-firebase"></i>
 
                         <div>
                             <h3 className="skills__name">Firebase</h3>
@@ -37,7 +37,7 @@ const Backend = () => {
 
                 <div className="skills__group">
                     <div className="skills__data">
-                        <i class='bx bxl-php' ></i>
+                        <i class="bx bxl-php"></i>
 
                         <div>
                             <h3 className="skills__name">PHP</h3>
@@ -46,16 +46,16 @@ const Backend = () => {
                     </div>
 
                     <div className="skills__data">
-                        <i class='bx bxl-c-plus-plus' ></i>
+                        <i class="bx bxl-c-plus-plus"></i>
 
                         <div>
                             <h3 className="skills__name">C++</h3>
                             <span className="skills__level">Intermediete</span>
                         </div>
-                        </div>
+                    </div>
 
                     <div className="skills__data">
-                        <i class='bx bxl-java' ></i>
+                        <i class="bx bxl-java"></i>
 
                         <div>
                             <h3 className="skills__name">Java</h3>
@@ -65,7 +65,7 @@ const Backend = () => {
                 </div>
             </div>
         </div>
-    )
-}
+    );
+};
 
-export default Backend
+export default Backend;

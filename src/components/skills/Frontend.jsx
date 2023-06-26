@@ -1,4 +1,4 @@
-import React from 'react';
+import React from "react";
 
 const Frontend = () => {
     return (
@@ -8,7 +8,7 @@ const Frontend = () => {
             <div className="skills__box">
                 <div className="skills__group">
                     <div className="skills__data">
-                        <i class='bx bxl-html5' ></i>
+                        <i class="bx bxl-html5"></i>
 
                         <div>
                             <h3 className="skills__name">HTML</h3>
@@ -17,7 +17,7 @@ const Frontend = () => {
                     </div>
 
                     <div className="skills__data">
-                        <i class='bx bxl-css3' ></i>
+                        <i class="bx bxl-css3"></i>
 
                         <div>
                             <h3 className="skills__name">CSS</h3>
@@ -26,19 +26,18 @@ const Frontend = () => {
                     </div>
 
                     <div className="skills__data">
-                        <i class='bx bxl-javascript' ></i>
+                        <i class="bx bxl-javascript"></i>
 
                         <div>
                             <h3 className="skills__name">JavaScript</h3>
                             <span className="skills__level">Inermediete</span>
                         </div>
                     </div>
-
                 </div>
 
                 <div className="skills__group">
                     <div className="skills__data">
-                        <i class='bx bxl-bootstrap'></i>
+                        <i class="bx bxl-bootstrap"></i>
 
                         <div>
                             <h3 className="skills__name">Bootstrap</h3>
@@ -47,7 +46,7 @@ const Frontend = () => {
                     </div>
 
                     <div className="skills__data">
-                        <i class='bx bxl-react' ></i>
+                        <i class="bx bxl-react"></i>
 
                         <div>
                             <h3 className="skills__name">React</h3>
@@ -56,7 +55,7 @@ const Frontend = () => {
                     </div>
 
                     <div className="skills__data">
-                        <i class='bx bxl-flutter' ></i>
+                        <i class="bx bxl-flutter"></i>
 
                         <div>
                             <h3 className="skills__name">Flutter</h3>
@@ -66,7 +65,7 @@ const Frontend = () => {
                 </div>
             </div>
         </div>
-    )
-}
+    );
+};
 
-export default Frontend
+export default Frontend;
