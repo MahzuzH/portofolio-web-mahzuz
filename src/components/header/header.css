@@ -43,10 +43,12 @@
 }
 
 /* Active*/
-
-.active-link,
-.nav__link:hover {
+.active-link {
     color: var(--title-color-dark);
+    font-weight: bold;
+}
+.nav__link:hover {
+    color: yellow;
 }
 
 /*=============== BREAKPOINTS ===============*/
